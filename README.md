@@ -128,7 +128,7 @@ jupyter notebook notebooks/phonepe_analysis.ipynb
 
 ## 👤 Author
 
-**Druson** — Data Scientist & Analytics Practitioner  
+**Druson0** — Data Scientist & Analytics Practitioner  
 🔗 [GitHub](https://github.com/Druson0) | [LinkedIn](https://www.linkedin.com/in/vigneshkumaranv/)
 
 ---
